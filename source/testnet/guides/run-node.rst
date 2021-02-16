@@ -19,8 +19,7 @@ network. After following this guide, you will be able to
 
 -  run a Concordium node
 -  observe it on the network dashboard and
--  query the state of the Concordium blockchain directly from your
-   machine.
+-  query the state of the Concordium blockchain directly from your machine.
 
 You do not need an account to run a node.
 
@@ -30,7 +29,6 @@ Before you begin
 Before running a Concordium node you will need to
 
 1. Install and run Docker.
-
    -  On *Linux*, allow Docker to be run as a non-root user.
 
 2. Download and extract the :ref:`concordium-node-and-client-download` software.
